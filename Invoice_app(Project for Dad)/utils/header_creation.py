@@ -1,3 +1,4 @@
+# This file will create Headings for you xlsx file and stop working after 2 runs to ensure the user won't overrite date into the file to maintain consistency and integrity of file details
 import os
 from openpyxl import Workbook
 from openpyxl import load_workbook
